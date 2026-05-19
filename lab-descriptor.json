@@ -10,7 +10,7 @@
   "collegeName": "IITKGP",
   "baseUrl": "pme-iitkgp.vlabs.ac.in",
   "introduction": "A complete hands-on will provide students a complete understanding of all these concepts of plant metabolic. Visualization will help them see the experimental results under different environments and conditions. Students will be able to play with the options to get more insights about these concepts. After these virtual lab experiments, students will be able to do experiments in real lab and will also be equipped to handle and realize many practical communication systems.",
-  "experiments":
+  "experiments":[
 {
 "name": "Virtual experiments to study characteristics of plant cells and genomes",
 "short-name": "plant-cells-genomes",
