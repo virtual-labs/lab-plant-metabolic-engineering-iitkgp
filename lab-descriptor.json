@@ -15,7 +15,7 @@
 "name": "Virtual experiments to study characteristics of plant cells and genomes",
 "short-name": "plant-cells-genomes",
 "repo": "https://github.com/virtual-labs/exp-plant-cells-genomes-iitkgp",
-"tag": "v1.0.0",
+"tag": "v1.0.2",
 "deploy": true
 },
 {
@@ -64,7 +64,7 @@
 "name": "Synthetic Biology techniques",
 "short-name": "synthetic-biology-techniques",
 "repo": "https://github.com/virtual-labs/exp-synthetic-biology-techniques-iitkgp",
-"tag": "v1.0.0",
+"tag": "v1.0.1",
 "deploy": true
 }
 ],
